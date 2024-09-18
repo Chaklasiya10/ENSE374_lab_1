@@ -1,4 +1,4 @@
-Welcome to the repository for **ENSE 374 Lab 1**. 
+## Welcome to the repository for **ENSE 374 Lab 1**.
 
 1. ENSE lab1  
 
